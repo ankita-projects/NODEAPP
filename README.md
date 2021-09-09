@@ -1,0 +1,1 @@
+[![Nodeapp CI](https://github.com/ankita-projects/nodeapp/actions/workflows/main.yml/badge.svg)](https://github.com/ankita-projects/nodeapp/actions/workflows/main.yml)
